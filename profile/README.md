@@ -1,7 +1,9 @@
+<a href="https://aasp.dev">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-reversed-animated.svg">
-  <img alt="aasp" src="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-primary-animated.svg" width="220">
+  <img alt="aasp" title="åsp" src="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-primary-animated.svg" width="220">
 </picture>
+</a>
 
 **basement software**
 
