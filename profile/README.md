@@ -1,12 +1,15 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-reversed.svg">
+  <img alt="aasp" src="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-primary.svg" width="220">
+</picture>
 
-<!--
+**basement software**
 
-**Here are some ideas to get you started:**
+Small, useful apps made and hosted in a basement in Denmark.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+I'm Anders Aaen Springborg. I build small apps for things I need myself, and I run them on a server in my basement. Each one does one job, does it well, and leaves your data alone.
+
+- [næxt meeting](https://next-meeting.eu) is a small screen on your desk that shows your next meeting.
+- [Dæli](https://daeli.dk) plans the week's meals and keeps the grocery list for the household.
+
+More at [aasp.dev](https://aasp.dev).
