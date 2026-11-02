@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-reversed.svg">
-  <img alt="aasp" src="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-primary.svg" width="220">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-reversed-animated.svg">
+  <img alt="aasp" src="https://raw.githubusercontent.com/aasp-hosted/.github/main/profile/wordmark-primary-animated.svg" width="220">
 </picture>
 
 **basement software**
